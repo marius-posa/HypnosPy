@@ -1,0 +1,12 @@
+{
+  "run_label": "run-90-2026-03-06-183513",
+  "run_number": "90",
+  "timestamp": "2026-03-06-183513",
+  "total_raw": 0,
+  "dedup_removed": 0,
+  "total_filtered": 0,
+  "total_batches": 0,
+  "severity_threshold": "low",
+  "batch_size": 5,
+  "max_batches": 5
+}
